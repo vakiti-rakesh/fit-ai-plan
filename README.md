@@ -1,7 +1,7 @@
 FitPlan AI: Your Personal AI Fitness & Nutrition Coach
 FitPlan AI is a full-stack web application designed to solve the common problem of "analysis paralysis" in fitness. It provides users with a personalized, AI-generated 4-week workout and meal plan based on their individual goals, experience, and preferences.
 
-🚀 Live Demo: fitplain-ai.netlify.app
+🚀 Live Demo: https://fitplain-ai.netlify.app/
  
  The Problem
 Getting started on a fitness journey is often overwhelming. Generic plans found online don't account for an individual's specific needs, such as available equipment, dietary restrictions, or fitness level. This can lead to confusion, frustration, and ultimately, giving up.
